@@ -1,0 +1,41 @@
+header {
+  height: 9rem;
+  background-color: #0b6e50;
+  text-align: center;
+  padding-top: 3rem;
+  font-size: 16pt;
+  color: white;
+  font-family: "Open Sans";
+}
+
+.email {
+  font-size: 10pt;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  /* height: 75px;
+  width: 75px; */
+  /* outline: black; */
+  /* border: 1px solid black; */
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 30pt;
+  color: gray;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 30pt;
+  color: gray;
+}
