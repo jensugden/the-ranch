@@ -1,11 +1,15 @@
 header {
-  height: 9rem;
+  height: 13rem;
   background-color: #0b6e50;
   text-align: center;
   padding-top: 3rem;
   font-size: 16pt;
   color: white;
   font-family: "Open Sans";
+}
+
+h5 {
+  padding-top: 2rem;
 }
 
 .email {
