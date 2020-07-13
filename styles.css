@@ -3,23 +3,24 @@ header {
   background-color: #0b6e50;
   text-align: center;
   padding-top: 3rem;
-  font-size: 16pt;
+  /* font-size: 16pt; */
   color: white;
-  font-family: "Open Sans";
+  /* font-family: "Open Sans"; */
 }
 
 h5 {
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 
 .email {
-  font-size: 10pt;
+  font-size: 12pt;
   color: white;
   text-decoration: none;
+  padding-bottom: 1rem;
 }
 
 a:hover {
-  color: gray;
+  color: yellow;
 }
 /*
 .carousel-control-prev-icon,
