@@ -1,3 +1,12 @@
+bg-img {
+  background-image: url("TheRanchPano1.jpg");
+  min-height: 380px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 header {
   height: 13rem;
   background-color: #0b6e50;
